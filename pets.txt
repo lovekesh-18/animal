@@ -2,3 +2,5 @@ Dog
 Cat
 Tiger
 Elephant
+Mouse
+Snake
